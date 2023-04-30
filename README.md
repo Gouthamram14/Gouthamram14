@@ -1,5 +1,6 @@
 ## Hi there 👋  I'm ➡️ Gouthamram Puranik
 
+- 🌱 I’m currently pursuing Bsc in Statistics ...
 <!--
 **Gouthamram14/Gouthamram14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
