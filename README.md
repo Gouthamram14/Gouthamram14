@@ -1,6 +1,6 @@
 ## Hi there 👋  I'm ➡️ Gouthamram Puranik
 
-- 🏫  Currently pursuing Bachelor's Degree (Bsc in Statistics)...
+- 🏫  Recent BSc in Statistics graduate
 <!--
 **Gouthamram14/Gouthamram14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
